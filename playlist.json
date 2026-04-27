@@ -9,7 +9,7 @@
       "size": 518443
     }
   ],
-  "override": "animation.gif",
-  "paused": false,
+  "override": null,
+  "paused": true,
   "currentIndex": 0
 }
