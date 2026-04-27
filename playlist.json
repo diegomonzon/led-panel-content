@@ -115,6 +115,6 @@
     }
   ],
   "override": null,
-  "paused": true,
+  "paused": false,
   "currentIndex": 16
 }
