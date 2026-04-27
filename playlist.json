@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "start": 1777331971121,
+  "start": 1777332007219,
   "durationMs": 4000,
   "files": [
     {
@@ -142,11 +142,6 @@
       "name": "pin_253397916530027879.gif",
       "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530027879.gif",
       "size": 119986
-    },
-    {
-      "name": "pin_5490026525313017979.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_5490026525313017979.gif",
-      "size": 37044
     }
   ],
   "override": "pin_253397916530027864.gif",
