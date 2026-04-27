@@ -1,7 +1,7 @@
 {
   "version": 1,
   "start": 0,
-  "durationMs": 6000,
+  "durationMs": 4000,
   "files": [],
   "override": null,
   "paused": false,
