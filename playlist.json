@@ -1,14 +1,8 @@
 {
   "version": 1,
-  "start": 1777326584186,
+  "start": 1777326615781,
   "durationMs": 4000,
-  "files": [
-    {
-      "name": "animation2.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/animation2.gif",
-      "size": 456580
-    }
-  ],
+  "files": [],
   "override": null,
   "paused": false,
   "currentIndex": 2
