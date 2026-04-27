@@ -1,14 +1,8 @@
 {
   "version": 1,
-  "start": 0,
+  "start": 1777325591615,
   "durationMs": 4000,
-  "files": [
-    {
-      "name": "__smoketest.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/__smoketest.gif",
-      "size": 43
-    }
-  ],
+  "files": [],
   "override": null,
   "paused": false,
   "currentIndex": 0
