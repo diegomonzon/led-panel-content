@@ -1,13 +1,8 @@
 {
   "version": 1,
-  "start": 1777343853277,
+  "start": 1777346850137,
   "durationMs": 20000,
   "files": [
-    {
-      "name": "391c8f422c2983b48e06aa7f5111424f-1.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/391c8f422c2983b48e06aa7f5111424f-1.gif",
-      "size": 208439
-    },
     {
       "name": "pin_253397916530027769.gif",
       "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530027769.gif",
@@ -364,8 +359,7 @@
       "size": 257203
     }
   ],
-  "override": "391c8f422c2983b48e06aa7f5111424f-1.gif",
+  "override": null,
   "paused": false,
-  "currentIndex": 0,
-  "resetSeq": 5
+  "currentIndex": 0
 }
