@@ -2,13 +2,7 @@
   "version": 1,
   "start": 1777347435488,
   "durationMs": 20000,
-  "files": [
-    {
-      "name": "pin_253397916530030008.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530030008.gif",
-      "size": 72520
-    }
-  ],
+  "files": [],
   "override": null,
   "paused": false,
   "currentIndex": 0,
