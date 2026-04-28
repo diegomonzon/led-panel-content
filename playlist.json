@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "start": 1777348045391,
+  "start": 1777348062505,
   "durationMs": 20000,
   "files": [
     {
@@ -260,6 +260,6 @@
     }
   ],
   "override": null,
-  "paused": true,
+  "paused": false,
   "currentIndex": 0
 }
