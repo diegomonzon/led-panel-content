@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "start": 1777339329432,
+  "start": 1761637832890,
   "durationMs": 10000,
   "files": [
     {
@@ -249,7 +249,7 @@
       "size": 257203
     }
   ],
-  "override": "391c8f422c2983b48e06aa7f5111424f-1.gif",
+  "override": null,
   "paused": false,
-  "currentIndex": 6
+  "currentIndex": 1
 }
