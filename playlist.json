@@ -256,5 +256,6 @@
   ],
   "override": null,
   "paused": false,
-  "currentIndex": 13
+  "currentIndex": 13,
+  "resetSeq": 1
 }
