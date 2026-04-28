@@ -260,6 +260,6 @@
     }
   ],
   "override": null,
-  "paused": false,
+  "paused": true,
   "currentIndex": 0
 }
