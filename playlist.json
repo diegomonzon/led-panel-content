@@ -1,44 +1,8 @@
 {
   "version": 1,
-  "start": 1777347913341,
+  "start": 1777347953750,
   "durationMs": 20000,
-  "files": [
-    {
-      "name": "pin_253397916530030033.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530030033.gif",
-      "size": 36612
-    },
-    {
-      "name": "pin_253397916530030031.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530030031.gif",
-      "size": 128386
-    },
-    {
-      "name": "pin_253397916530030008.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530030008.gif",
-      "size": 36925
-    },
-    {
-      "name": "pin_253397916530030007.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530030007.gif",
-      "size": 29952
-    },
-    {
-      "name": "pin_253397916530030006.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530030006.gif",
-      "size": 11779
-    },
-    {
-      "name": "pin_253397916530030005.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530030005.gif",
-      "size": 49188
-    },
-    {
-      "name": "pin_253397916530030004.gif",
-      "url": "https://raw.githubusercontent.com/diegomonzon/led-panel-content/main/library/pin_253397916530030004.gif",
-      "size": 44646
-    }
-  ],
+  "files": [],
   "override": null,
   "paused": false,
   "currentIndex": 0
