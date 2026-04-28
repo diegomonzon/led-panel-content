@@ -259,8 +259,7 @@
       "size": 1667168
     }
   ],
-  "override": null,
+  "override": "pin_253397916530030003.gif",
   "paused": false,
-  "currentIndex": 0,
-  "resetSeq": 1
+  "currentIndex": 0
 }
