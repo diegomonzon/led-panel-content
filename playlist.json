@@ -366,5 +366,6 @@
   ],
   "override": "391c8f422c2983b48e06aa7f5111424f-1.gif",
   "paused": false,
-  "currentIndex": 0
+  "currentIndex": 0,
+  "resetSeq": 1
 }
