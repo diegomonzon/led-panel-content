@@ -1,10 +1,9 @@
 {
   "version": 1,
-  "start": 1777347970214,
+  "start": 1777348707051,
   "durationMs": 20000,
   "files": [],
   "override": null,
   "paused": false,
-  "currentIndex": 13,
-  "resetSeq": 1
+  "currentIndex": 13
 }
