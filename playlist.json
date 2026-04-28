@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "start": 1777343396760,
+  "start": 1777342029094,
   "durationMs": 20000,
   "files": [
     {
@@ -364,7 +364,7 @@
       "size": 257203
     }
   ],
-  "override": "pin_253397916530030030.gif",
+  "override": null,
   "paused": false,
-  "currentIndex": 7
+  "currentIndex": 69
 }
