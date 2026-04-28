@@ -261,5 +261,6 @@
   ],
   "override": "pin_253397916530030003.gif",
   "paused": false,
-  "currentIndex": 0
+  "currentIndex": 0,
+  "resetSeq": 1
 }
